@@ -8,9 +8,9 @@
 
 ## Experiência
 ### - [Comp Júnior](https://compjunior.com.br)
-    1. **Back-end**
-    > *Node ts/js, Express, Postgres, MongoDB*
-    2. **Setor de Pessoas**
-    > *Gestão de Pessoas e Recrutamento*
+  1. **Back-end**
+  > *Node ts/js, Express, Postgres, MongoDB*
+  2. **Setor de Pessoas**
+  > *Gestão de Pessoas e Recrutamento*
 
 ---
