@@ -14,3 +14,6 @@
   > *Gestão de Pessoas e Recrutamento*
 
 ---
+
+
+![](capoo-cat.gif)
